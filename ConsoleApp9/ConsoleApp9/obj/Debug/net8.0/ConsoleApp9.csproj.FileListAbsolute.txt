@@ -1,0 +1,14 @@
+C:\Users\Hewlett-Packard\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\net8.0\ConsoleApp9.exe
+C:\Users\Hewlett-Packard\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\net8.0\ConsoleApp9.deps.json
+C:\Users\Hewlett-Packard\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\net8.0\ConsoleApp9.runtimeconfig.json
+C:\Users\Hewlett-Packard\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\net8.0\ConsoleApp9.dll
+C:\Users\Hewlett-Packard\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\net8.0\ConsoleApp9.pdb
+C:\Users\Hewlett-Packard\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\net8.0\ConsoleApp9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hewlett-Packard\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\net8.0\ConsoleApp9.AssemblyInfoInputs.cache
+C:\Users\Hewlett-Packard\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\net8.0\ConsoleApp9.AssemblyInfo.cs
+C:\Users\Hewlett-Packard\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\net8.0\ConsoleApp9.csproj.CoreCompileInputs.cache
+C:\Users\Hewlett-Packard\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\net8.0\ConsoleApp9.dll
+C:\Users\Hewlett-Packard\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\net8.0\refint\ConsoleApp9.dll
+C:\Users\Hewlett-Packard\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\net8.0\ConsoleApp9.pdb
+C:\Users\Hewlett-Packard\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\net8.0\ConsoleApp9.genruntimeconfig.cache
+C:\Users\Hewlett-Packard\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\net8.0\ref\ConsoleApp9.dll
