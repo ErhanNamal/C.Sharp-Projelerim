@@ -4,9 +4,23 @@ Console.WriteLine("Devam etmek için bir tuşa basınız (Çıkış için ESC ye
 
 while (true)
 {
-    Console.Write("Eklenecek sayıyı giriniz =>");
-    if (Console.ReadKey().Key == ConsoleKey.Escape)
-    sayi =Int32.Parse(Console.ReadLine());
+    Console.Write("Eklenecek sayıyı giriniz => ");
+    string input = Console.ReadLine();
+    if (string.IsNullOrWhiteSpace(input))
+    {
+    Console.WriteLine("Lütfen geçerli bir sayı giriniz.");
+    continue;
+    }
+    if (input.Equals("ESC", StringComparison.OrdinalIgnoreCase))
+    {
+        break;
+        }
+
+        try
+    {
+        sayi = Int32.Parse(input);
+        toplam += sayi;
+    }
     toplam += sayi;
     
 }
