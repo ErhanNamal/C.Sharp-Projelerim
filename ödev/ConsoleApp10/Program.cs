@@ -1,27 +1,37 @@
-﻿int sayi = 0;
+int sayi = 0;
 int toplam = 0;
-Console.WriteLine("Devam etmek için bir tuşa basınız (Çıkış için ESC ye basınız)");
+bool devam = true;
+string sayiMetin = null;
+ConsoleKeyInfo tus;
 
-while (true)
+while(devam)
 {
-    Console.Write("Eklenecek sayıyı giriniz => ");
-    string input = Console.ReadLine();
-    if (string.IsNullOrWhiteSpace(input))
+    Console.Write("Sayı girin: (Çıkmak için  ESC ye basın)");
+    while (true)
     {
-    Console.WriteLine("Lütfen geçerli bir sayı giriniz.");
-    continue;
-    }
-    if (input.Equals("ESC", StringComparison.OrdinalIgnoreCase))
-    {
-        break;
+        tus = Console.ReadKey(true);
+        if (Char.IsDigit(tus.KeyChar))
+        {
+            Console.Write(tus.KeyChar);
+            sayiMetin += tus.KeyChar;
         }
-
-        try
-    {
-        sayi = Int32.Parse(input);
-        toplam += sayi;
+        else
+        {
+            if (tus.Key == ConsoleKey.Enter)
+            {
+                Console.WriteLine();
+                sayi = Int32.Parse(sayiMetin ?? "0");//sayimetin null geliyorsa null yerine 0 döndür
+                sayiMetin = null;
+                toplam += sayi;
+                Console.WriteLine($"Girilen Sayıların Toplamı {toplam}");
+                break;
+            }
+            if (tus.Key == ConsoleKey.Escape)
+            {
+                Console.WriteLine("Teşekkür Ederiz...");
+                devam = false;
+                break;
+            }
+        }
     }
-    toplam += sayi;
-    
 }
-Console.WriteLine("şimdiye kadar girdiğiniz sayıların toplamı => {0}",toplam);
