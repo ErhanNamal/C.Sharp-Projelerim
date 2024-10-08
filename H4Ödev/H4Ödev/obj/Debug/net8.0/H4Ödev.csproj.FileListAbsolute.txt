@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\H4Ödev\H4Ödev\bin\Debug\net8.0\H4Ödev.exe
+C:\Users\Lenovo\source\repos\H4Ödev\H4Ödev\bin\Debug\net8.0\H4Ödev.deps.json
+C:\Users\Lenovo\source\repos\H4Ödev\H4Ödev\bin\Debug\net8.0\H4Ödev.runtimeconfig.json
+C:\Users\Lenovo\source\repos\H4Ödev\H4Ödev\bin\Debug\net8.0\H4Ödev.dll
+C:\Users\Lenovo\source\repos\H4Ödev\H4Ödev\bin\Debug\net8.0\H4Ödev.pdb
+C:\Users\Lenovo\source\repos\H4Ödev\H4Ödev\obj\Debug\net8.0\H4Ödev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\H4Ödev\H4Ödev\obj\Debug\net8.0\H4Ödev.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\H4Ödev\H4Ödev\obj\Debug\net8.0\H4Ödev.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\H4Ödev\H4Ödev\obj\Debug\net8.0\H4Ödev.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\H4Ödev\H4Ödev\obj\Debug\net8.0\H4Ödev.dll
+C:\Users\Lenovo\source\repos\H4Ödev\H4Ödev\obj\Debug\net8.0\refint\H4Ödev.dll
+C:\Users\Lenovo\source\repos\H4Ödev\H4Ödev\obj\Debug\net8.0\H4Ödev.pdb
+C:\Users\Lenovo\source\repos\H4Ödev\H4Ödev\obj\Debug\net8.0\H4Ödev.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\H4Ödev\H4Ödev\obj\Debug\net8.0\ref\H4Ödev.dll
