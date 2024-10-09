@@ -1,0 +1,14 @@
+C:\Users\Hewlett-Packard\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\net8.0\ConsoleApp15.exe
+C:\Users\Hewlett-Packard\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\net8.0\ConsoleApp15.deps.json
+C:\Users\Hewlett-Packard\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\net8.0\ConsoleApp15.runtimeconfig.json
+C:\Users\Hewlett-Packard\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\net8.0\ConsoleApp15.dll
+C:\Users\Hewlett-Packard\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\net8.0\ConsoleApp15.pdb
+C:\Users\Hewlett-Packard\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\net8.0\ConsoleApp15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hewlett-Packard\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\net8.0\ConsoleApp15.AssemblyInfoInputs.cache
+C:\Users\Hewlett-Packard\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\net8.0\ConsoleApp15.AssemblyInfo.cs
+C:\Users\Hewlett-Packard\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\net8.0\ConsoleApp15.csproj.CoreCompileInputs.cache
+C:\Users\Hewlett-Packard\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\net8.0\ConsoleApp15.dll
+C:\Users\Hewlett-Packard\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\net8.0\refint\ConsoleApp15.dll
+C:\Users\Hewlett-Packard\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\net8.0\ConsoleApp15.pdb
+C:\Users\Hewlett-Packard\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\net8.0\ConsoleApp15.genruntimeconfig.cache
+C:\Users\Hewlett-Packard\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\net8.0\ref\ConsoleApp15.dll
