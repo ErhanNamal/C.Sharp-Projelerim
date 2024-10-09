@@ -1,42 +1,59 @@
-﻿double s1 = 0;double s2 = 0;double sonuc; string islem2;
+﻿double s1 = 0;
+double s2 = 0;
+double sonuc = 0;
+string islem = "";
+bool kontrol = true;
 
-ekranbilgi();
-hangislem();
-sGir();
+ekranaBilgiYaz();
+
 s1 = sGir();
 s2 = sGir();
-dortislemmetodu($"{islem2}");
+islemiAl();
+
 ekranaYaz();
 
+void ekranaBilgiYaz() { Console.WriteLine("Dört İşlem Uygulaması"); }
 
-void hangislem()
+void mesaj(string mesaj,ConsoleColor onrek = ConsoleColor.Red)
 {
-	Console.WriteLine("Lütfen bir islem seçiniz(+,-,/,*)=>");
-	islem2 = Console.ReadLine();
+    Console.ForegroundColor = onrek;
+    Console.WriteLine(mesaj);
+    Console.ForegroundColor = ConsoleColor.Gray;
 }
-void ekranbilgi()
+
+double sGir()
 {
-    Console.WriteLine("4 işlem Uygulaması");
+	Console.Write("Sayıyı Gir => ");
+	return Convert.ToDouble(Console.ReadLine());
 }
-void dortislemmetodu(string islem)
+
+void islemiAl()
+{
+	Console.Write("Lütfen İşlemi Girin: (+, -, *, /) => ");
+	islem = Console.ReadLine();
+    sonuc = dortIslemMetodu(islem);
+}
+
+double dortIslemMetodu(string islem)
 {
 	switch (islem)
 	{
-		case "+": sonuc = s1 + s2; break;
-		case "-": sonuc = s1 - s2; break;
-		case "*": sonuc = s1 * s2; break;
-		case "/": sonuc = s1 / s2; break;
-
-		default:Console.WriteLine("Hatalı Giriş Yaptınız");
-			break;
+		case "+": return s1 + s2; break;
+		case "-": return s1 - s2; break;
+		case "*": return s1 * s2; break;
+		case "/": return s1 / s2; break;
+		default:
+			mesaj("Lütfen geçerli bir işlem yapın (+, -, *, /)");
+            kontrol = false;
+            return 0;
+		break;
 	}
 }
-double sGir()
-{
-	Console.Write("Sayıyı Giriniz=>");
-	return Convert.ToDouble(Console.ReadLine());
-}
+
 void ekranaYaz()
 {
-	Console.WriteLine();
+	if (kontrol)
+	{
+        mesaj($"Sonuç: {s1} {islem} {s2} = {sonuc}", ConsoleColor.Green);
+    }
 }
