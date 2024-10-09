@@ -32,7 +32,7 @@ int sGir(int sayi = 0, string metin = "")
 
     return Convert.ToInt32(Console.ReadLine());
 }
-
+// alan hesaplama
 double alanH(int sekil)
 {
     switch (sekil)
@@ -53,7 +53,7 @@ double alanH(int sekil)
         default: return 0; break;
     }
 }
-
+// başta girilen sayının çevre hesaplamak için
 double cevreH(int sekil)
 {
     switch (sekil)
@@ -67,7 +67,7 @@ double cevreH(int sekil)
             return 0; break;
     }
 }
-
+// ekrana yazdırmak için
 void ekranaYaz(double alan, double cevre)
 {
     Console.Write($"Alan:  ");
