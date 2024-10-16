@@ -1,0 +1,14 @@
+C:\Users\ET Kullanici\source\repos\ConsoleApp_rastgeleMayın\ConsoleApp_rastgeleMayın\obj\Debug\net8.0\ConsoleApp_rastgeleMayın.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ET Kullanici\source\repos\ConsoleApp_rastgeleMayın\ConsoleApp_rastgeleMayın\obj\Debug\net8.0\ConsoleApp_rastgeleMayın.AssemblyInfoInputs.cache
+C:\Users\ET Kullanici\source\repos\ConsoleApp_rastgeleMayın\ConsoleApp_rastgeleMayın\obj\Debug\net8.0\ConsoleApp_rastgeleMayın.AssemblyInfo.cs
+C:\Users\ET Kullanici\source\repos\ConsoleApp_rastgeleMayın\ConsoleApp_rastgeleMayın\obj\Debug\net8.0\ConsoleApp_rastgeleMayın.csproj.CoreCompileInputs.cache
+C:\Users\ET Kullanici\source\repos\ConsoleApp_rastgeleMayın\ConsoleApp_rastgeleMayın\bin\Debug\net8.0\ConsoleApp_rastgeleMayın.exe
+C:\Users\ET Kullanici\source\repos\ConsoleApp_rastgeleMayın\ConsoleApp_rastgeleMayın\bin\Debug\net8.0\ConsoleApp_rastgeleMayın.deps.json
+C:\Users\ET Kullanici\source\repos\ConsoleApp_rastgeleMayın\ConsoleApp_rastgeleMayın\bin\Debug\net8.0\ConsoleApp_rastgeleMayın.runtimeconfig.json
+C:\Users\ET Kullanici\source\repos\ConsoleApp_rastgeleMayın\ConsoleApp_rastgeleMayın\bin\Debug\net8.0\ConsoleApp_rastgeleMayın.dll
+C:\Users\ET Kullanici\source\repos\ConsoleApp_rastgeleMayın\ConsoleApp_rastgeleMayın\bin\Debug\net8.0\ConsoleApp_rastgeleMayın.pdb
+C:\Users\ET Kullanici\source\repos\ConsoleApp_rastgeleMayın\ConsoleApp_rastgeleMayın\obj\Debug\net8.0\ConsoleApp_rastgeleMayın.dll
+C:\Users\ET Kullanici\source\repos\ConsoleApp_rastgeleMayın\ConsoleApp_rastgeleMayın\obj\Debug\net8.0\refint\ConsoleApp_rastgeleMayın.dll
+C:\Users\ET Kullanici\source\repos\ConsoleApp_rastgeleMayın\ConsoleApp_rastgeleMayın\obj\Debug\net8.0\ConsoleApp_rastgeleMayın.pdb
+C:\Users\ET Kullanici\source\repos\ConsoleApp_rastgeleMayın\ConsoleApp_rastgeleMayın\obj\Debug\net8.0\ConsoleApp_rastgeleMayın.genruntimeconfig.cache
+C:\Users\ET Kullanici\source\repos\ConsoleApp_rastgeleMayın\ConsoleApp_rastgeleMayın\obj\Debug\net8.0\ref\ConsoleApp_rastgeleMayın.dll
