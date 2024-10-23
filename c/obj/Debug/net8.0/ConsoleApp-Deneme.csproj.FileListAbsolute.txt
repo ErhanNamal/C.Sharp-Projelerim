@@ -1,0 +1,14 @@
+C:\Users\Hewlett-Packard\source\repos\ConsoleApp-Deneme\bin\Debug\net8.0\ConsoleApp-Deneme.exe
+C:\Users\Hewlett-Packard\source\repos\ConsoleApp-Deneme\bin\Debug\net8.0\ConsoleApp-Deneme.deps.json
+C:\Users\Hewlett-Packard\source\repos\ConsoleApp-Deneme\bin\Debug\net8.0\ConsoleApp-Deneme.runtimeconfig.json
+C:\Users\Hewlett-Packard\source\repos\ConsoleApp-Deneme\bin\Debug\net8.0\ConsoleApp-Deneme.dll
+C:\Users\Hewlett-Packard\source\repos\ConsoleApp-Deneme\bin\Debug\net8.0\ConsoleApp-Deneme.pdb
+C:\Users\Hewlett-Packard\source\repos\ConsoleApp-Deneme\obj\Debug\net8.0\ConsoleApp-Deneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hewlett-Packard\source\repos\ConsoleApp-Deneme\obj\Debug\net8.0\ConsoleApp-Deneme.AssemblyInfoInputs.cache
+C:\Users\Hewlett-Packard\source\repos\ConsoleApp-Deneme\obj\Debug\net8.0\ConsoleApp-Deneme.AssemblyInfo.cs
+C:\Users\Hewlett-Packard\source\repos\ConsoleApp-Deneme\obj\Debug\net8.0\ConsoleApp-Deneme.csproj.CoreCompileInputs.cache
+C:\Users\Hewlett-Packard\source\repos\ConsoleApp-Deneme\obj\Debug\net8.0\ConsoleApp-Deneme.dll
+C:\Users\Hewlett-Packard\source\repos\ConsoleApp-Deneme\obj\Debug\net8.0\refint\ConsoleApp-Deneme.dll
+C:\Users\Hewlett-Packard\source\repos\ConsoleApp-Deneme\obj\Debug\net8.0\ConsoleApp-Deneme.pdb
+C:\Users\Hewlett-Packard\source\repos\ConsoleApp-Deneme\obj\Debug\net8.0\ConsoleApp-Deneme.genruntimeconfig.cache
+C:\Users\Hewlett-Packard\source\repos\ConsoleApp-Deneme\obj\Debug\net8.0\ref\ConsoleApp-Deneme.dll
