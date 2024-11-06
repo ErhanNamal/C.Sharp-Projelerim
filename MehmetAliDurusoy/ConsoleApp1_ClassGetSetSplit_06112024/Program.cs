@@ -7,12 +7,15 @@ mehmet ali 12345678901 bunu ada,soyada ve tc e bölecek
 Bilgi kimlik  = new Bilgi("mehmet ali 12345678901");
 Bilgi kimlik1 = new Bilgi("mehmet ali durusoy 12345678901");
 Bilgi kimlik2 = new Bilgi("ahmet ibrahim efe sarısoy 12345678901");
+Bilgi kimlik3 = new Bilgi("ahmet ibrahim efe dsada sarısoy 12345678901");
 
 Console.WriteLine($"{kimlik.adSoyad} | TC NO: {kimlik.tcno}");
 Console.WriteLine("------------------------------------------");
 Console.WriteLine($"{kimlik1.adSoyad} | TC NO: {kimlik1.tcno}");
 Console.WriteLine("------------------------------------------");
 Console.WriteLine($"{kimlik2.adSoyad} | TC NO: {kimlik2.tcno}");
+Console.WriteLine("------------------------------------------");
+Console.WriteLine($"{kimlik3.adSoyad} | TC NO: {kimlik3.tcno}");
 
 class Bilgi
 {
@@ -35,9 +38,9 @@ class Bilgi
         {
             _ad += " " + _bilgi[1];
 
-            for (int i = 1; i < _bilgi.Length - 2; i++)
+            for (int i = 2; i < _bilgi.Length - 2; i++)
             {
-                Console.WriteLine($"{i} | {_bilgi.Length - 2} | {(_bilgi.Length - 2) + i} | {_bilgi.Length - 1}");
+                _ad += " " + _bilgi[i];
             }
 
             _soyad = _bilgi[_bilgi.Length - 2];
