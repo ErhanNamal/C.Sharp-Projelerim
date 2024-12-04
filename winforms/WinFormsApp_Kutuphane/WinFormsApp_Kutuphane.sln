@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp_Kutuphane", "WinFormsApp_Kutuphane.csproj", "{252E7A03-0484-411C-A509-9AC16D78879B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{252E7A03-0484-411C-A509-9AC16D78879B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{252E7A03-0484-411C-A509-9AC16D78879B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{252E7A03-0484-411C-A509-9AC16D78879B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{252E7A03-0484-411C-A509-9AC16D78879B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12ABC162-B037-4874-B7E6-8974C17E107D}
+	EndGlobalSection
+EndGlobal
